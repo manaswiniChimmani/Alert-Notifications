@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.noti-container {
+  display: flex;
+  align-items: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-right: 70px;
+}
+.h1 {
+  color: #2dca73;
+  font-size: 18px;
+}
+.h2 {
+  color: #ff0b37;
+  font-size: 18px;
+}
+.h3 {
+  color: #ffb800;
+  font-size: 18px;
+}
+.h4 {
+  color: #0f81e0;
+  font-size: 18px;
+}
+
+.icon1 {
+  font-size: 28px;
+  color: #2dca73;
+}
+.icon2 {
+  font-size: 28px;
+  color: #ff0b37;
+}
+.icon3 {
+  font-size: 28px;
+  color: #ffb800;
+}
+.icon4 {
+  font-size: 28px;
+  color: #0f81e0;
+}

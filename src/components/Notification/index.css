@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.card {
+  display: flex;
+  border: 1px solid #e5e5e5;
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  margin: 5px;
+  width: 550px;
+}
